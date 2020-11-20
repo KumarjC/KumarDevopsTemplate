@@ -28,6 +28,7 @@
 - [book] [a] (flight|ticket[s]|flight ticket) on {@datetimeV2} [on {datetimeV2}]
 - book flight from {@geographyV2} to {geographyV2}
 - need to book flight from {@geographyV2} to {geographyV2}
+- I need to book flight from {@geographyV2} to {geographyV2}
 
 ## None
 
